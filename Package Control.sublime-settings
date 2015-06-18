@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Emmet",
 		"JSHint Gutter",
 		"Package Control",
 		"Sass",
