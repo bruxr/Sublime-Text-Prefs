@@ -6,7 +6,7 @@
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
-		"gray_antialias",
+		"no_round",
 		"directwrite"
 	],
 	"font_size": 10,
