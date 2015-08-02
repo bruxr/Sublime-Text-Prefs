@@ -1,10 +1,14 @@
 {
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/User/colour-schemes/Monokai Soda.tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": false,
+	"el_capitan_font_helvetica_neue": true,
+	"el_capitan_sidebar_blue_folders": true,
 	"enable_tab_scrolling": false,
-	"font_face": "Source Code Pro",
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"no_round",
@@ -15,10 +19,12 @@
 	[
 		"Vintage"
 	],
-	"line_padding_top": 0,
-	"spacegray_tabs_auto_width": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"material_theme_small_tab": true,
+	"overlay_scroll_bars": "enabled",
 	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "El Capitan.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
