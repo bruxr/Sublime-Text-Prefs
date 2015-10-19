@@ -1,11 +1,11 @@
 {
 	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
+	"bold_folder_labels": false,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/colour-schemes/Solarized (dark).tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": false,
-	"el_capitan_font_helvetica_neue": true,
+	"el_capitan_font_helvetica_neue": false,
 	"el_capitan_sidebar_blue_folders": true,
 	"enable_tab_scrolling": false,
 	"font_face": "Fira Code",
