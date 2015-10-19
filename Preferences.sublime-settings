@@ -1,6 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
-	"bold_folder_labels": false,
+	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/colour-schemes/Solarized (dark).tmTheme",
 	"default_line_ending": "unix",
