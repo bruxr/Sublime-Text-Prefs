@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/colour-schemes/Monokai Soda.tmTheme",
+	"color_scheme": "Packages/User/colour-schemes/Solarized (dark).tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": false,
 	"el_capitan_font_helvetica_neue": true,
