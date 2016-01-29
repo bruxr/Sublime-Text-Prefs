@@ -2,29 +2,28 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/colour-schemes/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/Theme - Primer/primer.light2.tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": false,
-	"el_capitan_font_helvetica_neue": false,
 	"el_capitan_sidebar_blue_folders": true,
 	"enable_tab_scrolling": false,
-	"font_face": "Fira Code",
+	"font_face": "Monaco",
 	"font_options":
 	[
 		"no_round",
 		"directwrite"
 	],
 	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"material_theme_small_tab": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
-	"tab_size": 4,
-	"theme": "El Capitan.sublime-theme",
+	"tab_size": 2,
+	"theme": "Primer.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }

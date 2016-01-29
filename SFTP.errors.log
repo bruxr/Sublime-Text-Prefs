@@ -1,0 +1,26 @@
+2015-12-08 18:06:21
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 303, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 467, in make_connection
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 431, in make_connection
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 363, in cd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/proc.py", line 219, in read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/proc.py", line 175, in read
+SFTP.sftp.errors.DisconnectionError: Disconnected
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 432, in make_connection
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 492, in ls
+SFTP.sftp.errors.PermissionError: Permission denied
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 16, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 119, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 369, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 441, in make_connection
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/sftp_transport.py", line 492, in ls
+SFTP.sftp.errors.PermissionError: Permission denied
