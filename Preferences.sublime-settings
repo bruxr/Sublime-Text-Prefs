@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Primer/primer.light2.tmTheme",
+	"color_scheme": "Packages/User/colour-schemes/Panic Palette.tmTheme",
 	"default_line_ending": "unix",
 	"draw_white_space": false,
 	"el_capitan_sidebar_blue_folders": true,
@@ -19,11 +19,11 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
-	"theme": "Primer.sublime-theme",
+	"theme": "El Capitan.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
