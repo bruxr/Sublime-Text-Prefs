@@ -9,6 +9,7 @@
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
+		"no_round",
 		"directwrite"
 	],
 	"font_size": 13,
