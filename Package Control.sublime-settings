@@ -5,17 +5,14 @@
 	],
 	"installed_packages":
 	[
-		"ApplySyntax",
 		"Base16 Color Schemes",
 		"DocBlockr",
-		"EJS",
 		"Emmet",
 		"Handlebars",
 		"Package Control",
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
-		"Theme - El Capitan",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-php",
