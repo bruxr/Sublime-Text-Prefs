@@ -5,10 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Base16 Color Schemes",
 		"DocBlockr",
 		"Emmet",
 		"Handlebars",
+		"Jinja2",
+		"Monokai - Spacegray",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Sass",
 		"SFTP",
@@ -16,6 +20,7 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-php",
+		"Theme - Sodarized",
 		"Theme - Spacegray",
 		"WordPress"
 	]
